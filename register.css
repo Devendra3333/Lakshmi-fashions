@@ -1,0 +1,33 @@
+body{
+    background-image: url('login.jpg');
+    background-size:auto;
+}
+h1{
+    text-align: center;
+    background-color: aliceblue;
+    font-family: fantasy;
+    font-size: "420px";
+}
+input[type=text]{
+    padding:12px 20px;
+    magin:8px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.fr{
+    display:block;
+    text-align: center;
+    background-color: aliceblue;
+}
+.f22{
+    display: inline-block;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: left;
+}
+.bt{
+    padding:12px 20px;
+    align-content: center;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
